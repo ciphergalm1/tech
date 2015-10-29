@@ -1,0 +1,79 @@
+[
+            {
+                "model": "SOV31 XPERIA Z4",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "SHV32",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 0,
+                "MULBACK": 0
+            },
+            {
+                "model": "HTV31",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 0
+            },
+            {
+                "model": "KYL23",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "Galaxy S6 edge SCV31",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "LGV32",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "KYV34",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "KYV35",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "Xperia Z5 SOV32",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "KYV33 INFOBAR A03",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SHV31",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            }
+]

@@ -1,0 +1,114 @@
+[
+            {
+                "model": "SO-02G",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SO-05G",
+				"ARMPKM": 1,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SO-04G",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SO-03G",
+				"ARMPKM": 1,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SH-04G",
+				"ARMPKM": 3,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SH-03G",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "SC-04G",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "DM-01G(d)",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "ZenFone 2 Laser (ZE500KL)",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "P8 lite ALE-L02",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "ZenFone Selfie",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "ZenFone 2",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "Arrows M01",
+				"ARMPKM": 1,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "freetel priori2 sp FT142A-PR2SP",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "freetel priori2 LTE FT151A-PR2LTE",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "Ascend G6",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            }
+]

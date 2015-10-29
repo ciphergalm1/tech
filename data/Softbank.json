@@ -1,0 +1,72 @@
+[
+            {
+                "model": "AQUOS CRYSTAL2",
+				"ARMPKM": 3,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "ZTE BLADE Q+",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "301Z",
+				"ARMPKM": 3,
+				"ARMPKL": 0,
+                "ARMPCH": 0,
+                "MULBACK": 0
+            },
+            {
+                "model": "AQUOS CRYSTAL Y 402SH",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "AQUOS Xx",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "Xperia Z4",
+				"ARMPKM": 0,
+				"ARMPKL": 3,
+                "ARMPCH": 0,
+                "MULBACK": 3
+            },
+            {
+                "model": "GALAXY S6",
+				"ARMPKM": 1,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "AQUOS CRYSTAL 305SH",
+				"ARMPKM": 3,
+				"ARMPKL": 3,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            },
+            {
+                "model": "DIGNO U",
+				"ARMPKM": 0,
+				"ARMPKL": 0,
+                "ARMPCH": 0,
+                "MULBACK": 0
+            },
+            {
+                "model": "AQUOS PHONE Xxmini 303SH",
+				"ARMPKM": 3,
+				"ARMPKL": 2,
+                "ARMPCH": 3,
+                "MULBACK": 3
+            }
+]
